@@ -1,5 +1,5 @@
 # docker-eclint
-A Docker Image to run editorconfig checks using [eclint](https://github.com/jedmao/eclint)
+A Docker Image to run [editorconfig](http://editorconfig.org/) checks using [eclint](https://github.com/jedmao/eclint)
 
 ## Usage
 To use you have to simply have a `.editorconfig` file in the root of your project and run:
